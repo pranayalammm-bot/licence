@@ -1,0 +1,14 @@
+{
+  "keys": {
+    "ZENOX-FRIEND-001": {
+      "active": true,
+      "expires": "2026-12-31",
+      "note": "Friend 1"
+    },
+    "ZENOX-TEST-002": {
+      "active": true,
+      "expires": "2026-10-15",
+      "note": "Test user"
+    }
+  }
+}
