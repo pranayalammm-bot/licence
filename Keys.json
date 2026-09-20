@@ -1,7 +1,7 @@
 {
   "keys": {
     "ZENOX123": {
-      "active": true,
+      "active": false,
       "expires": "2026-12-31",
       "note": "Friend 1"
     },
