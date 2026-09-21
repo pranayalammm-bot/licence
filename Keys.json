@@ -4,7 +4,7 @@
       "active": true,
       "expires": "2026-12-31",
       "note": "Friend 1",
-      "password_required": true
+      "password_required": false
     },
     "ZENOX-TEST-002": {
       "active": true,
