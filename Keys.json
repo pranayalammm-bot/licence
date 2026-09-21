@@ -8,7 +8,8 @@
     "ZENOX-TEST-002": {
       "active": true,
       "expires": "2026-10-15",
-      "note": "Test user"
+      "note": "Test user",
+      "password_required": true
     },
     "ZENOX12345": {
       "active": true,
