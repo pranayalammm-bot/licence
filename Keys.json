@@ -11,13 +11,6 @@
       "expires": "2026-10-15",
       "note": "Test user",
       "password_required": true
-    },
-    "ZENOX12345": {
-      "active": true,
-      "expires": "2026-10-29",
-      "password_required": true,
-      "password_hash": "378a4116e300b1ed0028c2b0c6cd64eb8cb20e95b296349fbc0f73659cd44d8a",
-      "note": "new"
     }
   }
 }
