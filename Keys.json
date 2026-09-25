@@ -5,6 +5,11 @@
       "expires": "2026-12-31",
       "note": "Friend 1",
       "password_required": false
+    },
+    "OWNER": {
+      "active": true,
+      "expires": "2027-10-08",
+      "note": "new"
     }
   }
 }
