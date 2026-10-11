@@ -1,7 +1,7 @@
 {
   "keys": {
     "OWNER": {
-      "active": true,
+      "active": false,
       "expires": "2027-10-08",
       "note": "new"
     },
